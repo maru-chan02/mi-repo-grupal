@@ -1,0 +1,7 @@
+C:\Users\UPN\Documents\Exercise 7\Exercise 7\bin\Debug\Exercise 7.exe.config
+C:\Users\UPN\Documents\Exercise 7\Exercise 7\bin\Debug\Exercise 7.exe
+C:\Users\UPN\Documents\Exercise 7\Exercise 7\bin\Debug\Exercise 7.pdb
+C:\Users\UPN\Documents\Exercise 7\Exercise 7\obj\Debug\Exercise 7.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\Exercise 7\Exercise 7\obj\Debug\Exercise 7.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\Exercise 7\Exercise 7\obj\Debug\Exercise 7.exe
+C:\Users\UPN\Documents\Exercise 7\Exercise 7\obj\Debug\Exercise 7.pdb

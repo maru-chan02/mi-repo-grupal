@@ -1,0 +1,7 @@
+C:\Users\UPN\source\repos\Ejercicio3\Tarea_3\Tarea_3\bin\Debug\Tarea_3.exe.config
+C:\Users\UPN\source\repos\Ejercicio3\Tarea_3\Tarea_3\bin\Debug\Tarea_3.exe
+C:\Users\UPN\source\repos\Ejercicio3\Tarea_3\Tarea_3\bin\Debug\Tarea_3.pdb
+C:\Users\UPN\source\repos\Ejercicio3\Tarea_3\Tarea_3\obj\Debug\Tarea_3.csproj.AssemblyReference.cache
+C:\Users\UPN\source\repos\Ejercicio3\Tarea_3\Tarea_3\obj\Debug\Tarea_3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\source\repos\Ejercicio3\Tarea_3\Tarea_3\obj\Debug\Tarea_3.exe
+C:\Users\UPN\source\repos\Ejercicio3\Tarea_3\Tarea_3\obj\Debug\Tarea_3.pdb
