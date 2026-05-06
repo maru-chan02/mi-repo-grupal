@@ -1,0 +1,14 @@
+C:\Users\User\Documents\actividad semana 6\c#\03\03\bin\Debug\net8.0\03.exe
+C:\Users\User\Documents\actividad semana 6\c#\03\03\bin\Debug\net8.0\03.deps.json
+C:\Users\User\Documents\actividad semana 6\c#\03\03\bin\Debug\net8.0\03.runtimeconfig.json
+C:\Users\User\Documents\actividad semana 6\c#\03\03\bin\Debug\net8.0\03.dll
+C:\Users\User\Documents\actividad semana 6\c#\03\03\bin\Debug\net8.0\03.pdb
+C:\Users\User\Documents\actividad semana 6\c#\03\03\obj\Debug\net8.0\03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\actividad semana 6\c#\03\03\obj\Debug\net8.0\03.AssemblyInfoInputs.cache
+C:\Users\User\Documents\actividad semana 6\c#\03\03\obj\Debug\net8.0\03.AssemblyInfo.cs
+C:\Users\User\Documents\actividad semana 6\c#\03\03\obj\Debug\net8.0\03.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\actividad semana 6\c#\03\03\obj\Debug\net8.0\03.dll
+C:\Users\User\Documents\actividad semana 6\c#\03\03\obj\Debug\net8.0\refint\03.dll
+C:\Users\User\Documents\actividad semana 6\c#\03\03\obj\Debug\net8.0\03.pdb
+C:\Users\User\Documents\actividad semana 6\c#\03\03\obj\Debug\net8.0\03.genruntimeconfig.cache
+C:\Users\User\Documents\actividad semana 6\c#\03\03\obj\Debug\net8.0\ref\03.dll
