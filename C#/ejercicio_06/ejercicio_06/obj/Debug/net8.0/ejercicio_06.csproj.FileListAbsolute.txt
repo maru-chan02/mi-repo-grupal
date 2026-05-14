@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\sem7_JP\C#\ejercicio_06\ejercicio_06\bin\Debug\net8.0\ejercicio_06.exe
+C:\Users\User\Desktop\sem7_JP\C#\ejercicio_06\ejercicio_06\bin\Debug\net8.0\ejercicio_06.deps.json
+C:\Users\User\Desktop\sem7_JP\C#\ejercicio_06\ejercicio_06\bin\Debug\net8.0\ejercicio_06.runtimeconfig.json
+C:\Users\User\Desktop\sem7_JP\C#\ejercicio_06\ejercicio_06\bin\Debug\net8.0\ejercicio_06.dll
+C:\Users\User\Desktop\sem7_JP\C#\ejercicio_06\ejercicio_06\bin\Debug\net8.0\ejercicio_06.pdb
+C:\Users\User\Desktop\sem7_JP\C#\ejercicio_06\ejercicio_06\obj\Debug\net8.0\ejercicio_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\sem7_JP\C#\ejercicio_06\ejercicio_06\obj\Debug\net8.0\ejercicio_06.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\sem7_JP\C#\ejercicio_06\ejercicio_06\obj\Debug\net8.0\ejercicio_06.AssemblyInfo.cs
+C:\Users\User\Desktop\sem7_JP\C#\ejercicio_06\ejercicio_06\obj\Debug\net8.0\ejercicio_06.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sem7_JP\C#\ejercicio_06\ejercicio_06\obj\Debug\net8.0\ejercicio_06.dll
+C:\Users\User\Desktop\sem7_JP\C#\ejercicio_06\ejercicio_06\obj\Debug\net8.0\refint\ejercicio_06.dll
+C:\Users\User\Desktop\sem7_JP\C#\ejercicio_06\ejercicio_06\obj\Debug\net8.0\ejercicio_06.pdb
+C:\Users\User\Desktop\sem7_JP\C#\ejercicio_06\ejercicio_06\obj\Debug\net8.0\ejercicio_06.genruntimeconfig.cache
+C:\Users\User\Desktop\sem7_JP\C#\ejercicio_06\ejercicio_06\obj\Debug\net8.0\ref\ejercicio_06.dll

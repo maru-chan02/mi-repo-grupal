@@ -1,0 +1,15 @@
+C:\Users\User\Documents\actividad semana 6\c#\ejercicio_02\ejercicio_02\bin\Debug\net8.0\ejercicio_02.exe
+C:\Users\User\Documents\actividad semana 6\c#\ejercicio_02\ejercicio_02\bin\Debug\net8.0\ejercicio_02.deps.json
+C:\Users\User\Documents\actividad semana 6\c#\ejercicio_02\ejercicio_02\bin\Debug\net8.0\ejercicio_02.runtimeconfig.json
+C:\Users\User\Documents\actividad semana 6\c#\ejercicio_02\ejercicio_02\bin\Debug\net8.0\ejercicio_02.dll
+C:\Users\User\Documents\actividad semana 6\c#\ejercicio_02\ejercicio_02\bin\Debug\net8.0\ejercicio_02.pdb
+C:\Users\User\Documents\actividad semana 6\c#\ejercicio_02\ejercicio_02\obj\Debug\net8.0\ejercicio_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\actividad semana 6\c#\ejercicio_02\ejercicio_02\obj\Debug\net8.0\ejercicio_02.AssemblyInfoInputs.cache
+C:\Users\User\Documents\actividad semana 6\c#\ejercicio_02\ejercicio_02\obj\Debug\net8.0\ejercicio_02.AssemblyInfo.cs
+C:\Users\User\Documents\actividad semana 6\c#\ejercicio_02\ejercicio_02\obj\Debug\net8.0\ejercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\actividad semana 6\c#\ejercicio_02\ejercicio_02\obj\Debug\net8.0\ejercicio_02.sourcelink.json
+C:\Users\User\Documents\actividad semana 6\c#\ejercicio_02\ejercicio_02\obj\Debug\net8.0\ejercicio_02.dll
+C:\Users\User\Documents\actividad semana 6\c#\ejercicio_02\ejercicio_02\obj\Debug\net8.0\refint\ejercicio_02.dll
+C:\Users\User\Documents\actividad semana 6\c#\ejercicio_02\ejercicio_02\obj\Debug\net8.0\ejercicio_02.pdb
+C:\Users\User\Documents\actividad semana 6\c#\ejercicio_02\ejercicio_02\obj\Debug\net8.0\ejercicio_02.genruntimeconfig.cache
+C:\Users\User\Documents\actividad semana 6\c#\ejercicio_02\ejercicio_02\obj\Debug\net8.0\ref\ejercicio_02.dll
