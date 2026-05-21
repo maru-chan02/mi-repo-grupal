@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Documentos\C#\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\kevin\OneDrive\Documentos\C#\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\kevin\OneDrive\Documentos\C#\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\kevin\OneDrive\Documentos\C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\kevin\OneDrive\Documentos\C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
