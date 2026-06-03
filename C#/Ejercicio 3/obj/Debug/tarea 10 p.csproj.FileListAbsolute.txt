@@ -1,0 +1,7 @@
+C:\Users\PC\Pictures\proyecto_personal\tarea 10 p\bin\Debug\tarea 10 p.exe.config
+C:\Users\PC\Pictures\proyecto_personal\tarea 10 p\bin\Debug\tarea 10 p.exe
+C:\Users\PC\Pictures\proyecto_personal\tarea 10 p\bin\Debug\tarea 10 p.pdb
+C:\Users\PC\Pictures\proyecto_personal\tarea 10 p\obj\Debug\tarea 10 p.csproj.AssemblyReference.cache
+C:\Users\PC\Pictures\proyecto_personal\tarea 10 p\obj\Debug\tarea 10 p.csproj.CoreCompileInputs.cache
+C:\Users\PC\Pictures\proyecto_personal\tarea 10 p\obj\Debug\tarea 10 p.exe
+C:\Users\PC\Pictures\proyecto_personal\tarea 10 p\obj\Debug\tarea 10 p.pdb
