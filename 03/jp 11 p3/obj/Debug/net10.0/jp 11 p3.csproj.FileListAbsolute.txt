@@ -1,0 +1,14 @@
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p3\bin\Debug\net10.0\jp 11 p3.exe
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p3\bin\Debug\net10.0\jp 11 p3.deps.json
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p3\bin\Debug\net10.0\jp 11 p3.runtimeconfig.json
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p3\bin\Debug\net10.0\jp 11 p3.dll
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p3\bin\Debug\net10.0\jp 11 p3.pdb
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p3\obj\Debug\net10.0\jp 11 p3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p3\obj\Debug\net10.0\jp 11 p3.AssemblyInfoInputs.cache
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p3\obj\Debug\net10.0\jp 11 p3.AssemblyInfo.cs
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p3\obj\Debug\net10.0\jp 11 p3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p3\obj\Debug\net10.0\jp 11 p3.dll
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p3\obj\Debug\net10.0\refint\jp 11 p3.dll
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p3\obj\Debug\net10.0\jp 11 p3.pdb
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p3\obj\Debug\net10.0\jp 11 p3.genruntimeconfig.cache
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p3\obj\Debug\net10.0\ref\jp 11 p3.dll

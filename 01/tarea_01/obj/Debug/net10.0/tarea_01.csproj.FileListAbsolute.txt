@@ -1,0 +1,14 @@
+C:\2do ciclo\Semana07\tarea_01\tarea_01\bin\Debug\net10.0\tarea_01.exe
+C:\2do ciclo\Semana07\tarea_01\tarea_01\bin\Debug\net10.0\tarea_01.deps.json
+C:\2do ciclo\Semana07\tarea_01\tarea_01\bin\Debug\net10.0\tarea_01.runtimeconfig.json
+C:\2do ciclo\Semana07\tarea_01\tarea_01\bin\Debug\net10.0\tarea_01.dll
+C:\2do ciclo\Semana07\tarea_01\tarea_01\bin\Debug\net10.0\tarea_01.pdb
+C:\2do ciclo\Semana07\tarea_01\tarea_01\obj\Debug\net10.0\tarea_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\2do ciclo\Semana07\tarea_01\tarea_01\obj\Debug\net10.0\tarea_01.AssemblyInfoInputs.cache
+C:\2do ciclo\Semana07\tarea_01\tarea_01\obj\Debug\net10.0\tarea_01.AssemblyInfo.cs
+C:\2do ciclo\Semana07\tarea_01\tarea_01\obj\Debug\net10.0\tarea_01.csproj.CoreCompileInputs.cache
+C:\2do ciclo\Semana07\tarea_01\tarea_01\obj\Debug\net10.0\tarea_01.dll
+C:\2do ciclo\Semana07\tarea_01\tarea_01\obj\Debug\net10.0\refint\tarea_01.dll
+C:\2do ciclo\Semana07\tarea_01\tarea_01\obj\Debug\net10.0\tarea_01.pdb
+C:\2do ciclo\Semana07\tarea_01\tarea_01\obj\Debug\net10.0\tarea_01.genruntimeconfig.cache
+C:\2do ciclo\Semana07\tarea_01\tarea_01\obj\Debug\net10.0\ref\tarea_01.dll

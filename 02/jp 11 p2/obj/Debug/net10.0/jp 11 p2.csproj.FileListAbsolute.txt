@@ -1,0 +1,14 @@
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p2\bin\Debug\net10.0\jp 11 p2.exe
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p2\bin\Debug\net10.0\jp 11 p2.deps.json
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p2\bin\Debug\net10.0\jp 11 p2.runtimeconfig.json
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p2\bin\Debug\net10.0\jp 11 p2.dll
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p2\bin\Debug\net10.0\jp 11 p2.pdb
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p2\obj\Debug\net10.0\jp 11 p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p2\obj\Debug\net10.0\jp 11 p2.AssemblyInfoInputs.cache
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p2\obj\Debug\net10.0\jp 11 p2.AssemblyInfo.cs
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p2\obj\Debug\net10.0\jp 11 p2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p2\obj\Debug\net10.0\jp 11 p2.dll
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p2\obj\Debug\net10.0\refint\jp 11 p2.dll
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p2\obj\Debug\net10.0\jp 11 p2.pdb
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p2\obj\Debug\net10.0\jp 11 p2.genruntimeconfig.cache
+C:\Users\PC\Pictures\proyecto_personal\jp 11 p2\obj\Debug\net10.0\ref\jp 11 p2.dll
